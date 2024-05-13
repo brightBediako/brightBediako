@@ -4,16 +4,14 @@ I'm a passionate Full-stack Developer with a focus on MERN stack. Welcome to my 
 
 ## 🚀 About Me
 
-- 💻 I'm currently working on [mention your current projects or goals].
+- 💻 I'm currently working on a new project.
 - 🌱 I'm currently learning DevOps.
-- 💬 Ask me about [mention topics or technologies you're knowledgeable about].
+- 💬 Ask me about anything.
 - 📫 How to reach me: bright.bediako.dev@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I Love to cook.
 
 ## 🔧 Technologies & Tools
-
-### Languages
 
 ### Frontend
 HTML, CSS, JavaScript, React, Bootstrap
@@ -33,17 +31,14 @@ Git, Github, VS Code, Windows, Postman, Chrome
 
 ## 📝 Recent Projects
 
-[mention a few recent projects you've worked on, along with a brief description]
 
-1. [Project Name](link): Description.
-2. [Project Name](link): Description.
-3. [Project Name](link): Description.
+1. MERN Blog.([link](https://react-blog-client-t9j8.onrender.com/)): This is a dynamic and responsive React-based blog application designed to provide an intuitive and engaging platform for content creation and consumption. This project leverages the power of React to deliver a seamless user experience, allowing individuals to easily compose, edit, and share blog posts..
+2. [Project Name]([link](https://creepy-shoulder-pads-ox.cyclic.app/)): passport-googleOAuth-login is a lightweight Node.js application that showcases the integration of Google OAuth login functionality using Passport.js authentication middleware. Simplify user login by allowing them to use their Google accounts, enhancing convenience and security without the need for separate credentials..
+3. [Passport and Google OAuth Signin]([link](https://hispanic-clothing.000webhostapp.com/index.php)): As part of the CodeSoft internship, this is a comprehensive web development project aiming to construct a feature-rich blog website. It showcases proficiency in web technologies, illustrating a practical understanding of crafting dynamic and interactive web applications. Key features encompass post creation, listing, user authentication, search functionality, and a commenting system..
 
 ## 📫 Connect with Me
 
-[mention your social media or professional networking profiles where people can connect with you]
-
-[LinkedIn](your LinkedIn profile URL) | [Twitter](your Twitter profile URL) | [Website](your personal website URL)
+[LinkedIn](https://www.linkedin.com/in/brightbediako/) | [Twitter](https://twitter.com/brightBediakoh) | [Website]([your personal website URL](https://brightbediako.netlify.app/))
 
 Feel free to reach out and connect!
 
