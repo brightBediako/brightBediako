@@ -6,9 +6,7 @@ I'm a passionate Full-stack Developer with a focus on MERN stack. Welcome to my 
 
 - 💻 I'm currently working on a new project.
 - 🌱 I'm currently learning DevOps.
-- 💬 Ask me about anything.
 - 📫 How to reach me: bright.bediako.dev@gmail.com
-- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I Love to cook.
 
 ## 🔧 Technologies & Tools
@@ -25,12 +23,7 @@ MongoDB, MySQL
 ### Tools & Others
 Git, Github, VS Code, Windows, Postman, Chrome
 
-## 📊 GitHub Stats
-
-[![[Your GitHub stats](https://github.com/brightBediako)](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/brightBediako)
-
 ## 📝 Recent Projects
-
 
 1. MERN Blog.([link](https://react-blog-client-t9j8.onrender.com/)): This is a dynamic and responsive React-based blog application designed to provide an intuitive and engaging platform for content creation and consumption. This project leverages the power of React to deliver a seamless user experience, allowing individuals to easily compose, edit, and share blog posts.
 
