@@ -27,18 +27,20 @@ Git, Github, VS Code, Windows, Postman, Chrome
 
 ## 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![[Your GitHub stats](https://github.com/brightBediako)](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/brightBediako)
 
 ## 📝 Recent Projects
 
 
-1. MERN Blog.([link](https://react-blog-client-t9j8.onrender.com/)): This is a dynamic and responsive React-based blog application designed to provide an intuitive and engaging platform for content creation and consumption. This project leverages the power of React to deliver a seamless user experience, allowing individuals to easily compose, edit, and share blog posts..
-2. [Project Name]([link](https://creepy-shoulder-pads-ox.cyclic.app/)): passport-googleOAuth-login is a lightweight Node.js application that showcases the integration of Google OAuth login functionality using Passport.js authentication middleware. Simplify user login by allowing them to use their Google accounts, enhancing convenience and security without the need for separate credentials..
-3. [Passport and Google OAuth Signin]([link](https://hispanic-clothing.000webhostapp.com/index.php)): As part of the CodeSoft internship, this is a comprehensive web development project aiming to construct a feature-rich blog website. It showcases proficiency in web technologies, illustrating a practical understanding of crafting dynamic and interactive web applications. Key features encompass post creation, listing, user authentication, search functionality, and a commenting system..
+1. MERN Blog.([link](https://react-blog-client-t9j8.onrender.com/)): This is a dynamic and responsive React-based blog application designed to provide an intuitive and engaging platform for content creation and consumption. This project leverages the power of React to deliver a seamless user experience, allowing individuals to easily compose, edit, and share blog posts.
+
+2. Passport and Google OAuth Signin.([link](https://creepy-shoulder-pads-ox.cyclic.app/)):passport-googleOAuth-login is a lightweight Node.js application that showcases the integration of Google OAuth login functionality using Passport.js authentication middleware. Simplify user login by allowing them to use their Google accounts, enhancing convenience and security without the need for separate credentials.
+
+3. Blogging Website.([link](https://hispanic-clothing.000webhostapp.com/index.php)): As part of the CodeSoft internship, this is a comprehensive web development project aiming to construct a feature-rich blog website. It showcases proficiency in web technologies, illustrating a practical understanding of crafting dynamic and interactive web applications. Key features encompass post creation, listing, user authentication, search functionality, and a commenting system.
 
 ## 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/brightbediako/) | [Twitter](https://twitter.com/brightBediakoh) | [Website]([your personal website URL](https://brightbediako.netlify.app/))
+[LinkedIn](https://www.linkedin.com/in/brightbediako/) | [Twitter](https://twitter.com/brightBediakoh) | [Website](https://brightbediako.netlify.app/)
 
 Feel free to reach out and connect!
 
