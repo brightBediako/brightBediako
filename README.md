@@ -1,32 +1,31 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Bright Bediako! 👋
 
-I'm a passionate Full-stack Developer with a focus on [mention your primary technologies or interests]. Welcome to my GitHub profile! 
+I'm a passionate Full-stack Developer with a focus on MERN stack. Welcome to my GitHub profile! 
 
 ## 🚀 About Me
 
 - 💻 I'm currently working on [mention your current projects or goals].
-- 🌱 I'm currently learning [mention what you're currently learning or interested in].
+- 🌱 I'm currently learning DevOps.
 - 💬 Ask me about [mention topics or technologies you're knowledgeable about].
-- 📫 How to reach me: [mention your contact information or preferred channels].
-- 😄 Pronouns: [mention your pronouns, if desired].
-- ⚡ Fun fact: [share a fun or interesting fact about yourself].
+- 📫 How to reach me: bright.bediako.dev@gmail.com
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I Love to cook.
 
 ## 🔧 Technologies & Tools
 
 ### Languages
-[mention the programming languages you're proficient in, e.g., JavaScript, Python, etc.]
 
 ### Frontend
-[mention frontend technologies you work with, e.g., HTML, CSS, React, etc.]
+HTML, CSS, JavaScript, React, Bootstrap
 
 ### Backend
-[mention backend technologies you work with, e.g., Node.js, Express, etc.]
+Node.js, Express, PHP
 
 ### Databases
-[mention databases you work with, e.g., MongoDB, MySQL, etc.]
+MongoDB, MySQL
 
 ### Tools & Others
-[mention other tools, libraries, or frameworks you use, e.g., Git, Docker, etc.]
+Git, Github, VS Code, Windows, Postman, Chrome
 
 ## 📊 GitHub Stats
 
