@@ -12,7 +12,11 @@
 
 Hello! I'm a passionate Full-Stack Developer who loves turning ideas into reality through clean, efficient code. I specialize in the MERN stack and enjoy building scalable web applications that solve real-world problems.
 
-When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the developer community.
+### 🎈 Fun Facts
+
+- I love to cook 🍳
+- I love everything about nature 🌿
+
 
 ## 🛠️ Tech Stack
 
