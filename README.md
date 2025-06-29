@@ -56,7 +56,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 I'm always open to discussing new opportunities, collaborations, or just chatting about technology. Feel free to reach out!
 
-![Email](https://img.shields.io/badge/Email-bright.bediako.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Email](https://img.shields.io/badge/Email-bright.bediako.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:bright.bediako.dev@gmail.com)
 
 ---
 
