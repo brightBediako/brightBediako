@@ -42,9 +42,6 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Bright's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightBediako&show_icons=true&theme=radical)
 
 ## 🎯 What I Do
 
@@ -59,10 +56,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 I'm always open to discussing new opportunities, collaborations, or just chatting about technology. Feel free to reach out!
 
-- **LinkedIn**: [brightbediako](https://www.linkedin.com/in/brightbediako/)
-- **Twitter**: [@brightBediakoh](https://twitter.com/brightBediakoh)
-- **Portfolio**: [brightbediako.netlify.app](https://brightbediako.netlify.app/)
-- **Email**: [bright.bediako.dev@gmail.com]
+![Email](https://img.shields.io/badge/Email-bright.bediako.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
